@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AulaFrasesDoDia</string>
+    <string name="txt_frase">Clique me um dos botões acima...</string>
+    <string name="btn_gerar_frase">GERAR FRASE</string>
+    <string name="iv_desc_logo">Imagem da logomarca</string>
+    <string name="btn_todas_frases">EXIBIR TODAS AS FRASES</string>
+    <string-array name="frases">
+        <item>"Acredite em si mesmo e você será imparável."</item>
+        <item>"Cada dia é uma nova oportunidade para brilhar."</item>
+        <item>"Se você pode sonhar, pode realizar."</item>
+        <item>"A persistência leva ao sucesso."</item>
+        <item>"A jornada mais longa começa com um único passo."</item>
+        <item>"Sua determinação é sua maior força."</item>
+        <item>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</item>
+        <item>"Encare cada desafio como uma chance de crescimento."</item>
+        <item>"Grandes coisas nunca vêm da zona de conforto."</item>
+        <item>"Mude seus pensamentos e você mudará seu mundo."</item>
+        <item>"A adversidade revela o verdadeiro campeão que há em você."</item>
+        <item>"Você é mais forte do que imagina."</item>
+        <item>"O que você faz hoje pode melhorar todos os amanhãs."</item>
+        <item>"Acredite no poder dos seus sonhos e siga em frente."</item>
+        <item>"Não desista, supere."</item>
+        <item>"A motivação vem de fazer as coisas acontecerem."</item>
+        <item>"O sucesso é a melhor forma de vingança."</item>
+        <item>"Lembre-se: você é capaz de realizar o impossível."</item>
+        <item>"A paixão e a perseverança abrem portas que antes pareciam fechadas."</item>
+        <item>"Sorria para o mundo, e o mundo sorrirá de volta."</item>
+    </string-array>
+</resources>
